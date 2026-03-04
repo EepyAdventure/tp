@@ -9,6 +9,11 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
+### Joshua Poon
+
+<img src="images/eepyadventure.png" width="200px">
+
+[[github](https://github.com/eepyadventure)]
 ### Yucheng Wang
 
 <img src="images/echoandland.png" width="200px">
